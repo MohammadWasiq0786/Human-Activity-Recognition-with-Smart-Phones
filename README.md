@@ -14,6 +14,6 @@ Activity recognition is used in many applications such as surveillance, medical 
 The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
 
 ### Accuracy
-Training Accuracy for SVM : $100.0%$ 
+Training Accuracy for SVM : $100.0$% 
 
-Testingg Accuracy for SVM : $96.3%$
+Testingg Accuracy for SVM : $96.3$%
